@@ -30,7 +30,7 @@ If you entered a wrong name the application will show you an alert to remind you
 
 If you aren’t exist in our Database so you should press sign up to register 
 
-![ ](/home/marwa/Desktop/x-o-game/tictactoe_using_java/images/6.png)
+![ ](images/6.png)
 
 Then you have to decide what type of game you want to play ?
 
@@ -44,9 +44,9 @@ After making your choice about the level the application will ask you either you
 
 with X or with O .
 
-![ ](/home/marwa/Desktop/x-o-game/tictactoe_using_java/images/7.png)
+![ ](images/7.png)
 then the application will take you to the game board
-![ ](/home/marwa/Desktop/x-o-game/tictactoe_using_java/images/4.png)
+![ ](images/4.png)
 **Second :multi player** if you want to play with someone either locally or through the internet
 
 By pressing either **offline** on the same machine or **online** on different machines
@@ -74,11 +74,11 @@ you played before with the user name you entered before
 we have three more scenes with some gifs and animations
 
 if you won the application will show you this :
-![ ](/home/marwa/Desktop/x-o-game/tictactoe_using_java/images/3.png)
+![ ](images/3.png)
 if you lose the application will show you this :
-![ ](/home/marwa/Desktop/x-o-game/tictactoe_using_java/images/2.png)
+![ ](images/2.png)
 If the game was a tie the application will show you this :
-![ ](/home/marwa/Desktop/x-o-game/tictactoe_using_java/images/1.png)
+![ ](images/1.png)
 Thank you for letting us show you our application.
 
 Have a wonderful games.
