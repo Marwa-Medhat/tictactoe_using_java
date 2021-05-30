@@ -1,6 +1,6 @@
 ﻿Tic-Tac-Toe
 
-To use all our application features you should follow this instructions :
+To use all our application features you should follow this instructions:
 
 \1. you have to import the data base from MySQL workbench you will get a .sql file
 
